@@ -43,7 +43,7 @@ export class MemStorage implements IStorage {
         price: 150,
         volume: "500ml",
         category: "energy",
-        image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_energy_boost.png",
         inStock: true
       },
       {
@@ -52,7 +52,7 @@ export class MemStorage implements IStorage {
         price: 180,
         volume: "330ml",
         category: "energy",
-        image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_thunder.png",
         inStock: true
       },
       {
@@ -61,7 +61,7 @@ export class MemStorage implements IStorage {
         price: 160,
         volume: "500ml",
         category: "energy",
-        image: "https://images.unsplash.com/photo-1571068316344-75bc76f77890?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_sport.png",
         inStock: true
       },
       {
@@ -70,7 +70,7 @@ export class MemStorage implements IStorage {
         price: 120,
         volume: "500ml",
         category: "soft",
-        image: "https://images.unsplash.com/photo-1561758033-48d52648ae8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_cola_classic.png",
         inStock: true
       },
       {
@@ -79,7 +79,7 @@ export class MemStorage implements IStorage {
         price: 110,
         volume: "330ml",
         category: "soft",
-        image: "https://images.unsplash.com/photo-1530062845289-9b8643bfebb9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_orange_burst.png",
         inStock: true
       },
       {
@@ -88,7 +88,7 @@ export class MemStorage implements IStorage {
         price: 100,
         volume: "330ml",
         category: "soft",
-        image: "https://images.unsplash.com/photo-1581636625402-29b2a704ef13?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_lemon_lime.png",
         inStock: true
       },
       {
@@ -97,7 +97,7 @@ export class MemStorage implements IStorage {
         price: 80,
         volume: "500ml",
         category: "soft",
-        image: "https://images.unsplash.com/photo-1556909114-58a8f33c4d1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_sparkling_water.png",
         inStock: true
       },
       {
@@ -106,7 +106,7 @@ export class MemStorage implements IStorage {
         price: 140,
         volume: "500ml",
         category: "soft",
-        image: "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+        image: "/home/ubuntu/ShoppingCartDrinks/ShoppingCartDrinks/generated_images/paya_tropical_mix.png",
         inStock: true
       }
     ];
